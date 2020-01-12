@@ -23,6 +23,8 @@ output:
 <img src="images/Odds ratio.png" style="width:50%">
 </center>
 
+\
+
 ## LAtino Sleep and Health (LASH) Study
 <center>
 <img src="images/sleep.png" style="width:50%">
@@ -40,7 +42,9 @@ output:
 <img src="images/depression.png" style="width:50%">
 </center>
 
-## Virological dynamics in HIV-infected infants
+\
+
+## Virological Dynamics in HIV-infected Infants
 <center>
 <img src="images/HIV.jpg" style="width:50%">
 </center>
@@ -56,6 +60,8 @@ output:
 <center>
 <img src="images/depression.png" style="width:50%">
 </center>
+
+\
 
 ## Chronic Obstructive Pulmonary Disease (COPD)
 <center>
