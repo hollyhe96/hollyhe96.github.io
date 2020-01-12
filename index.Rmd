@@ -1,0 +1,23 @@
+---
+title: ""
+output: 
+  html_document:
+   toc: true
+   toc_float: true
+---
+
+## Introduction
+
+<center>
+<img src="images/selfie.jpg" style="width:50%">
+
+<p align="left">Hello, everyone! My name is Yun He, a second-year Master of Science student in Biostatistics at the Columbia University Mailman School of Public Health expecting to graduate in May 2020. I am passionate about data analysis and interpretation. I am proficient in managing and analyzing data using SAS, R and SQL. I am actively seeking full-time opportunities related to data analysis.</p>
+
+<p align="left">You could find my resume [here](resume.html). You could also know me better by exploring the website.</p>
+
+
+
+|<c1> [Research Projects](research.html) </c1> | [Class Projects](overview.html) </c1> | [Relevant Coursework](coursework.html)
+:--------------------------: | :------------------------: | :------------------------:
+
+

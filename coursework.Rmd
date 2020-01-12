@@ -1,0 +1,14 @@
+---
+title: ""
+output: 
+  html_document:
+   toc: true
+   toc_float: true
+---
+
+## Relevant Coursework
+
+<p align="left">Biostatistical Methods, Data Science, SQL/SAS Programming, Probability, Statistical Inference, Survival Analysis, Analysis of Longitudinal Data, Clinical Trial Methodology, Analysis of Health Surveys, Principles of Epidemiology.</p>
+
+Course details can be found [here](https://www.mailman.columbia.edu/academics/course-directory). 
+

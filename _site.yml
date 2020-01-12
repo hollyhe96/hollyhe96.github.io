@@ -1,0 +1,15 @@
+name: "Holly's website"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Resume"
+      href: resume.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<yh3094@columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/hollyhe96
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/in/yun-he
+output:
+  html_document

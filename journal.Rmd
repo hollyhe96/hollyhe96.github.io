@@ -1,0 +1,8 @@
+---
+title: "Chronic Obstructive Pulmonary Disease (COPD)"
+output: html_document
+---
+
+<center>
+<iframe src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5608224/pdf/jpr-10-2247.pdf" height="600" width="600"></iframe>
+</center>

@@ -1,0 +1,74 @@
+---
+title: "Research Projects"
+output: 
+  html_document:
+   toc: true
+   toc_float: true
+---
+
+## Co-management and Burnout in Clinical Setting
+<center>
+<img src="images/physicianburnout.png" style="width:50%">
+</center>
+
+* __Introduction__
+<p align="left">It is a research project I work on with the professor from School of Nursing. The purpose of the study was to determine the impact of provider co-management on self-reported primary care providers' (PCP) burnout and job satisfaction.</p>
+* __Methods__
+<p align="left">I Entered survey data from about 400 subjects into Excel. I cleaned and recoded variables when necessary as data were collected from paper surveys or online surveys. Data analysis was conducted in R. Both bivariate and multivariable logistic regression models were built to assess the relationship between co-management and burnout related outcomes.</p>
+* __Results__
+<p align="left">Provider co-management models appear to be a promising approach to alleviate some PCP burnout. The more effective co-management is between providers, the less significantly associated provider burnout, job dissatisfaction and intent to leave current position.</p>
+
+<p align="left">Here is a plot displaying one of the results (not the final version).</p>
+<center>
+<img src="images/Odds ratio.png" style="width:50%">
+</center>
+
+## LAtino Sleep and Health (LASH) Study
+<center>
+<img src="images/sleep.png" style="width:50%">
+</center>
+
+* __Introduction__
+<p align="left">It is a research project I work on with the professor from Department of Biostatistics. The purpose of the study was to examine the associations of emotional, behavioral, and cognitive self-regulation with sleep in urban-dwelling Latina/o adults.</p>
+* __Methods__
+<p align="left">A cohort of 100 healthy Latino adults were collected data for 40 consecutive days on sleep and self-regulation. (The data collection hasn't completed yet.) Recently, statistical analysis has been done on 40 subjects with repated measurements for at least 40 days in R using Mixed Models and Cumulative Link Mixed Models to investigate the bidirectional relationship between sleep and self-regulation. With data accural, I would write statistical reports, and present results to the professor and his collaborators monthly.</p>
+* __Results__
+<p align="left">Emotional and behavioral self-regulatory processes are associated with insomnia, and that cognitive self-regulation is associated with both insomnia and overall sleep quality, which could lead to clinical implications.</p>
+
+<p align="left">Here is a plot displaying one of the results (not the final version).</p>
+<center>
+<img src="images/depression.png" style="width:50%">
+</center>
+
+## Virological dynamics in HIV-infected infants
+<center>
+<img src="images/HIV.jpg" style="width:50%">
+</center>
+
+* __Introduction__
+<p align="left">It was a research project I worked on with the professor from Department of Biostatistics. The purpose of the study was to .</p>
+* __Methods__
+<p align="left"></p>
+* __Results__
+<p align="left"></p>
+
+<p align="left">Here is a plot displaying one of the results (not the final version).</p>
+<center>
+<img src="images/depression.png" style="width:50%">
+</center>
+
+## Chronic Obstructive Pulmonary Disease (COPD)
+<center>
+<img src="images/COPD.png" style="width:50%">
+</center>
+
+* __Introduction__
+<p align="left">It was a research project I worked on with the professor from Department of Epidemiology in college. The purpose of the study was to explore pain problems and associated factors for patients with mild or moderate COPD in China.</p>
+* __Methods__
+<p align="left">Survey data of 283 eligible patients were collected in collaboration with community health care providers. Statistical analysis was conducted in SAS with both bivariate and multivariable logistic regression models built to identify risk factors fassociated with pain problems. </p>
+* __Results__
+<p align="left">Pain was common in patients with mild and moderate COPD in the community
+settings of Shanghai, China. Severity of COPD and COPD assessment test (CAT) score were significantly related to the prevalence of pain. Intervention measures should be developed to improve pain problems for COPD patients. </p>
+
+<p align="left">Here is the [paper](journal.html) published in the Journal of Pain Research.</p>
+
