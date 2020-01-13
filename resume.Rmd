@@ -3,5 +3,5 @@ title: "Resume"
 ---
 
 <center>
-<iframe src="file:///C:/Users/Holly/Desktop/1st%20semester/Data_science/hollyhe.github.io/resume/Resume_Yun_He.pdf" height="600" width="600"></iframe>
+<iframe src="file:///C:/Users/Holly/Desktop/website/hollyhe96.github.io/resume/Resume_Yun_He.pdf" height="600" width="600"></iframe>
 </center>
