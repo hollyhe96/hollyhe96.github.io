@@ -12,4 +12,5 @@ navbar:
     - icon: fa-linkedin
       href: https://www.linkedin.com/in/yun-he
 output:
-  html_document
+  html_document:
+    theme: cerulean
