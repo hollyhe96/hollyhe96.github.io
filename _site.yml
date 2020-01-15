@@ -13,4 +13,4 @@ navbar:
       href: https://www.linkedin.com/in/yun-he
 output:
   html_document:
-    theme: cerulean
+    theme: flatly
